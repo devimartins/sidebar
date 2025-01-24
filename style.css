@@ -26,6 +26,8 @@ nav.menu-lateral{
 
 nav.menu-lateral.expandir{
     width: 300px;
+    backface-visibility: 50%;
+    
 }
 
 
@@ -84,4 +86,9 @@ nav.menu-lateral.expandir .txt-link{
 ul li.item-menu a .icon > i{
     font-size: 30px;
     margin-left: 10px;
+}
+
+h1{
+    margin: 30px;
+    padding: 80px;
 }
